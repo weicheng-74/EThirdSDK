@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../.." />
+            <option value="$PROJECT_DIR$/../../app" />
+            <option value="$PROJECT_DIR$/../../framework/base" />
+            <option value="$PROJECT_DIR$/../../framework/db" />
+            <option value="$PROJECT_DIR$/../../framework/net" />
+            <option value="$PROJECT_DIR$/../../framework/ui" />
+            <option value="$PROJECT_DIR$/../../framework/zbcompoent" />
+            <option value="$PROJECT_DIR$/../../module/cart" />
+            <option value="$PROJECT_DIR$/../../module/guide" />
+            <option value="$PROJECT_DIR$/../../module/login" />
+            <option value="$PROJECT_DIR$/../../module/main" />
+            <option value="$PROJECT_DIR$/../../module/market" />
+            <option value="$PROJECT_DIR$/../../module/person" />
+            <option value="$PROJECT_DIR$/../../module/share" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../live" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

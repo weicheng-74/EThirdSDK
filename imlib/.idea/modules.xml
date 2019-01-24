@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../ZTwc_AL3.iml" filepath="$PROJECT_DIR$/../../ZTwc_AL3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../app/app.iml" filepath="$PROJECT_DIR$/../../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../framework/base/base.iml" filepath="$PROJECT_DIR$/../../framework/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../module/cart/cart.iml" filepath="$PROJECT_DIR$/../../module/cart/cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../framework/db/db.iml" filepath="$PROJECT_DIR$/../../framework/db/db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../module/guide/guide.iml" filepath="$PROJECT_DIR$/../../module/guide/guide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imlib.iml" filepath="$PROJECT_DIR$/imlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../live/live.iml" filepath="$PROJECT_DIR$/../live/live.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../module/login/login.iml" filepath="$PROJECT_DIR$/../../module/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../module/main/main.iml" filepath="$PROJECT_DIR$/../../module/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../module/market/market.iml" filepath="$PROJECT_DIR$/../../module/market/market.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../framework/net/net.iml" filepath="$PROJECT_DIR$/../../framework/net/net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../module/person/person.iml" filepath="$PROJECT_DIR$/../../module/person/person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../module/share/share.iml" filepath="$PROJECT_DIR$/../../module/share/share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../framework/ui/ui.iml" filepath="$PROJECT_DIR$/../../framework/ui/ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../framework/zbcompoent/zbcompoent.iml" filepath="$PROJECT_DIR$/../../framework/zbcompoent/zbcompoent.iml" />
+    </modules>
+  </component>
+</project>
